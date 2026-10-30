@@ -11,7 +11,7 @@
 
 ---
 
-Thirteen live platforms, a senior project in web security, and the repositories below. Everything listed here has working code, a test suite or continuous integration, or a live demo you can open. Case studies with screenshots are on [hkforge.dev](https://hkforge.dev).
+Twelve live platforms, a senior project in web security, and the repositories below. Everything listed here has working code, a test suite or continuous integration, or a live demo you can open. Case studies with screenshots are on [hkforge.dev](https://hkforge.dev).
 
 ### Live
 
@@ -28,7 +28,7 @@ Thirteen live platforms, a senior project in web security, and the repositories 
 | [Fluid Cursor](https://fluid-cursor-demo.netlify.app) | 4 KB zero dependency spring physics cursor with a data attribute API and a live playground. | JavaScript |
 | [Distributed Smart Parking](https://cecs327-smart-parking.netlify.app) | Fault tolerant distributed system in stdlib Python, running in the browser as Web Workers with fault injection. CECS 327. | Python, Web Workers |
 
-Also live: [darkforgeai.com](https://darkforgeai.com), [gpbiosupply.com](https://gpbiosupply.com), [kormiia.com](https://kormiia.com).
+Also live: [darkforgeai.com](https://darkforgeai.com) and [kormiia.com](https://kormiia.com).
 
 ### Security
 
