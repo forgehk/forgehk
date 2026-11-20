@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hkforge.dev"><img src="assets/header.svg" width="100%" alt="Hasan Karakra. Senior software engineer: production platforms, AI and ML, security, systems. 15 live sites and apps, 19 repos with passing CI, 700+ automated tests. Open to remote roles and project work."/></a>
+  <a href="https://hkforge.dev"><img src="assets/header.svg" width="100%" alt="Hasan. Senior software engineer: production platforms, AI and ML, security, systems. 15 live sites and apps, 19 repos with passing CI, 700+ automated tests. Open to remote roles and project work."/></a>
 </p>
 
 <p align="center">
