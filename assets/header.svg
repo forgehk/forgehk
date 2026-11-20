@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="hk-title hk-desc">
   <title id="hk-title">Hasan Karakra</title>
-  <desc id="hk-desc">Software engineer. Production web platforms, security tooling, systems software. 17 live sites and apps, 16 repos with passing CI, 400+ automated tests.</desc>
+  <desc id="hk-desc">Software engineer. Production web platforms, security tooling, systems software. 17 live sites and apps, 17 repos with passing CI, 600+ automated tests.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0C1424"/>
@@ -44,12 +44,12 @@
   </g>
   <g>
     <rect x="425" y="196" width="350" height="88" rx="12" fill="#0F172A" fill-opacity="0.85" stroke="#1E293B"/>
-    <text x="447" y="243" class="num">16</text>
+    <text x="447" y="243" class="num">17</text>
     <text x="447" y="267" class="label">repos with passing CI</text>
   </g>
   <g>
     <rect x="794" y="196" width="350" height="88" rx="12" fill="#0F172A" fill-opacity="0.85" stroke="#1E293B"/>
-    <text x="816" y="243" class="num">400+</text>
+    <text x="816" y="243" class="num">600+</text>
     <text x="816" y="267" class="label">automated tests</text>
   </g>
 </svg>

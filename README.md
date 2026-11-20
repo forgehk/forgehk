@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hkforge.dev"><img src="assets/header.svg" width="100%" alt="Hasan Karakra. Software engineer: production web platforms, security tooling, systems software. 17 live sites and apps, 16 repos with passing CI, 400+ automated tests."/></a>
+  <a href="https://hkforge.dev"><img src="assets/header.svg" width="100%" alt="Hasan Karakra. Software engineer: production web platforms, security tooling, systems software. 17 live sites and apps, 17 repos with passing CI, 600+ automated tests."/></a>
 </p>
 
 <p align="center">
@@ -37,6 +37,7 @@ Everything on this page is in production, has a live demo you can open, or ships
 
 | Repo | What it is | Status |
 |---|---|---|
+| [anvil](https://github.com/forgehk/anvil) | Security gateway for MCP. Sits between an AI client and a tool server and enforces allow and deny rules, human approval, secret redaction, prompt injection scanning, tool pinning and a hash chained audit log. Stdlib only. | 206 tests, CI on Linux and Windows |
 | [darkforge-edr](https://github.com/forgehk/darkforge-edr) | Linux endpoint detection agent in Go: /proc telemetry through a YAML rule engine, JSON lines alerts with MITRE tags. Evicts exited PIDs so PID reuse is re evaluated. | 47 tests, race detector CI |
 | [honeytoken-sentinel](https://github.com/forgehk/honeytoken-sentinel) | Mint decoy AWS, GitHub and Stripe credentials and canary URLs; get alerted the moment one is touched. Unknown token ids answer exactly like real ones, so tokens cannot be enumerated. Stdlib only. | 19 tests |
 | [pipeline-armor](https://github.com/forgehk/pipeline-armor) | CI security gate for GitHub Actions: regex secret scanner with an entropy floor, AST pattern scanner, YAML policy engine. Its own CI fails if the gate ever stops blocking the bundled vulnerable demo. | 19 tests |
@@ -81,8 +82,8 @@ Backend     FastAPI · Node · Netlify Functions · Supabase · SQLite · Pyodid
 Frontend    Next.js · React · vanilla JS · Three.js · Canvas · WebGL · WordPress
 Commerce    Shopify · Authorize.Net · Klaviyo · bilingual EN/ES storefronts
 Vision      YOLO · ONNX Runtime · WebAssembly · OpenCV
-Security    YAML rule engines · canary tokens · SAST and secret scanning · CSP and
-            security headers · DNS, SPF, DMARC and CAA · threat modeling
+Security    MCP and prompt injection defense · YAML rule engines · canary tokens · SAST
+            and secret scanning · CSP and security headers · DNS, SPF, DMARC and CAA
 Tooling     pytest · Go test · Playwright · GitHub Actions · Docker · Netlify
 ```
 
