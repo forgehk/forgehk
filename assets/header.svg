@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="hk-title hk-desc">
+  <title id="hk-title">Hasan Karakra</title>
+  <desc id="hk-desc">Software engineer. Production web platforms, security tooling, systems software. 17 live sites and apps, 16 repos with passing CI, 400+ automated tests.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0C1424"/>
+      <stop offset="1" stop-color="#070A12"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.88" cy="0.05" r="0.7">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.26"/>
+      <stop offset="0.55" stop-color="#38BDF8" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.04"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="320" rx="18"/></clipPath>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+      .eyebrow { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #7DD3FC; letter-spacing: 0.04em; }
+      .name { font-size: 56px; font-weight: 700; fill: #F8FAFC; letter-spacing: -0.02em; }
+      .tag { font-size: 21px; fill: #CBD5E1; }
+      .num { font-size: 38px; font-weight: 700; fill: #F8FAFC; letter-spacing: -0.01em; }
+      .num-accent { fill: #7DD3FC; }
+      .label { font-size: 15px; fill: #94A3B8; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect width="1200" height="320" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="17.5" fill="none" stroke="#1E293B"/>
+
+  <text x="56" y="58" class="eyebrow">github.com/forgehk</text>
+  <text x="54" y="118" class="name">Hasan Karakra</text>
+  <text x="56" y="156" class="tag">Software engineer. Production web platforms, security tooling, systems software.</text>
+
+  <g>
+    <rect x="56" y="196" width="350" height="88" rx="12" fill="#0F172A" fill-opacity="0.85" stroke="#1E293B"/>
+    <text x="78" y="243" class="num">17</text>
+    <text x="78" y="267" class="label">live sites and apps</text>
+  </g>
+  <g>
+    <rect x="425" y="196" width="350" height="88" rx="12" fill="#0F172A" fill-opacity="0.85" stroke="#1E293B"/>
+    <text x="447" y="243" class="num">16</text>
+    <text x="447" y="267" class="label">repos with passing CI</text>
+  </g>
+  <g>
+    <rect x="794" y="196" width="350" height="88" rx="12" fill="#0F172A" fill-opacity="0.85" stroke="#1E293B"/>
+    <text x="816" y="243" class="num">400+</text>
+    <text x="816" y="267" class="label">automated tests</text>
+  </g>
+</svg>
