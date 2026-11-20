@@ -1,6 +1,6 @@
 # All projects
 
-The full list behind [my profile](README.md). Everything here is in production, has a live site you can open, or ships with a test suite and a CI workflow you can inspect. Team and course projects say so.
+The full list behind [my profile](README.md). Everything here is in production, has a live site you can open, or ships with a test suite and a CI workflow you can inspect. Team projects, course projects and work in progress are labelled.
 
 ## In production
 
@@ -14,8 +14,9 @@ Farmacia Group runs six pharmacies in California. I build and run its sites, its
 | [Farmacia Anaheim](https://farmaciaanaheim.com) | Site for the group's Anaheim pharmacy, built as a custom WordPress theme: services, compounding and immunization pages, prescription refill, new patient and contact forms that land in the pharmacist's inbox. | WordPress, PHP |
 | [Farmacia Wellness](https://farmaciasupplements.com) | Bilingual supplement store for the group: cart and checkout, bundles, wholesale and in store pickup. | HTML, CSS, JS, Netlify, Authorize.Net |
 | [HairRx Lab](https://hairrxlab.com) | Telehealth storefront for a compounded prescription, with a scroll pinned sequence and a before and after slider. | Next.js 14, Framer Motion, Lenis |
-| [Kormiia](https://kormiia.com) | Telehealth site for a compounded prescription: pricing, safety information and a consultation before any order. California only. | Static site, Netlify |
 | [KeyKarams](https://keykarams.com) | D2C product page with a three.js product viewer and a custom cart that hands off to Shopify checkout. | three.js, Shopify, Klaviyo |
+
+**In development:** [Kormiia](https://kormiia.com), a telehealth site for a compounded prescription. California only.
 
 ## Products
 

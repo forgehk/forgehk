@@ -25,7 +25,7 @@ Newest: [forge-db](https://github.com/forgehk/forge-db), an LSM-tree storage eng
 
 ## Production work
 
-Farmacia Group runs six pharmacies in California. I built and maintain its group site ([farmaciarx.com](https://farmaciarx.com)), its telehealth front door ([farmaciarxcare.com](https://farmaciarxcare.com)), the store sites for [Dinuba](https://farmaciadinuba.com) and [Anaheim](https://farmaciaanaheim.com), and its [supplement store](https://farmaciasupplements.com), in English and Spanish. Outside the group I have shipped telehealth and direct-to-consumer storefronts ([HairRx Lab](https://hairrxlab.com), [Kormiia](https://kormiia.com), [KeyKarams](https://keykarams.com)) and my own product, [Dusklayer](https://dusklayer.com).
+Farmacia Group runs six pharmacies in California. I built and maintain its group site ([farmaciarx.com](https://farmaciarx.com)), its telehealth front door ([farmaciarxcare.com](https://farmaciarxcare.com)), the store sites for [Dinuba](https://farmaciadinuba.com) and [Anaheim](https://farmaciaanaheim.com), and its [supplement store](https://farmaciasupplements.com), in English and Spanish. Outside the group I have shipped telehealth and direct-to-consumer storefronts ([HairRx Lab](https://hairrxlab.com), [KeyKarams](https://keykarams.com)) and my own product, [Dusklayer](https://dusklayer.com).
 
 Case studies are on [hkforge.dev](https://hkforge.dev), and the stack behind each site is in [PROJECTS.md](PROJECTS.md).
 
