@@ -30,7 +30,7 @@ Farmacia Group runs six pharmacies in California. I build and run its sites, its
 
 | Project | What it is | Built with |
 |---|---|---|
-| [forge-lm](https://github.com/forgehk/forge-lm) | A language model built end to end and trained from random weights: a byte-level BPE tokenizer, a Llama-style transformer (RMSNorm, rotary embeddings, SwiGLU) and its trainer, a single-file model format, and an inference engine in Rust with zero dependencies. The engine reproduces PyTorch's logits to 1e-5 at every position. | Python, PyTorch, Rust. 65 tests, CI on Linux and Windows |
+| [forge-lm](https://github.com/forgehk/forge-lm) | A language model built end to end and trained from random weights: a byte-level BPE tokenizer, a Llama-style transformer (RMSNorm, rotary embeddings, SwiGLU) and its trainer, a single-file model format, and an inference engine in Rust with zero dependencies. The engine agrees with PyTorch on every logit to within 1.2e-5. | Python, PyTorch, Rust. 65 tests, CI on Linux and Windows |
 | [Sentinel Vision](https://github.com/forgehk/sentinel-vision) | Camera analytics that turns footage into timestamped statuses: desk presence, zone dwell and occupancy, front door alerts, head turn flags in an exam hall. YOLO26 detection and pose models exported to ONNX, running in the browser on WebAssembly or as four Windows apps. Counts people and never identifies them. [Windows release](https://github.com/forgehk/sentinel-vision/releases/latest). | Python, ONNX Runtime, JavaScript, three.js. 41 rule tests, release CI |
 
 ## Security
